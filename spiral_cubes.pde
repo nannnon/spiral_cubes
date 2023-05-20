@@ -46,4 +46,6 @@ void draw()
   }
   
   ++counter;
+  
+  //saveFrame("frames/######.png");
 }
